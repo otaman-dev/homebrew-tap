@@ -1,8 +1,8 @@
 class Otaman < Formula
   desc "Fast two-panel terminal file manager in the spirit of Total Commander"
   homepage "https://github.com/otaman-dev/otaman"
-  url "https://github.com/otaman-dev/otaman/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "0e45074c90cd3cacea023105c6c5f939aee2dcd4ab26311b3982d3a264f3f1cb"
+  url "https://github.com/otaman-dev/otaman/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "1b248ae36662c298dadfe5e13c984ed0646bdd4fe0b03242b26a167e19ddda87"
   license "AGPL-3.0-or-later"
   head "https://github.com/otaman-dev/otaman.git", branch: "main"
 
